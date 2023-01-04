@@ -17,7 +17,7 @@ export const TransactionTitles = styled.thead`
 `;
 
 export const TransactionTableRow = styled.tr`
-color: #84888b;
+  color: #84888b;
   &:nth-of-type(even) {
     background-color: #ecf1f4;
   }
